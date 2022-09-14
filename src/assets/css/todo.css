@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.containerme{
+    width: 100%;
+    height: 1000px;
+    /* background-image:url('../../assets/images/back.jpg'); */
+    /* background-size: cover; */
+}
+.back_img{
+    /* width: 100%; */
+    height: 400px;
+    position: relative;
+}
+.boxx{
+    /* position: absolute; */
+    width: 900px;
+    height: auto;
+    /* border: 1px solid red; */
+    background-color:#050505;
+    top:100px;
+    left: 270px;
+    /* box-shadow:0 1px 2px 0 rgb(0 0 0 / 12%); */
+
+}
+.widthh{
+    width: 200px;
+
+}
